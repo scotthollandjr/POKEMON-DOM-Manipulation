@@ -1,0 +1,24 @@
+#wrapper {
+  padding: auto 50px auto 50px;
+  margin: auto;
+  width: 750px;
+  height: 650px;
+  text-align: center;
+  background-color: #9CBD0F;
+  color: #0F380F;
+}
+
+#header, #choose, #starter, #tallgrass {
+  margin-top: 25px;
+  padding-top: 100px;
+  display: none;
+}
+
+img {
+  width: 100px;
+}
+
+.starter {
+  display: none;
+  width: 300px;
+}
